@@ -1,5 +1,8 @@
 package inquiry;
 
-public class InquiryController {
+import org.springframework.stereotype.Controller;
 
+@Controller
+public class InquiryController {
+	
 }
